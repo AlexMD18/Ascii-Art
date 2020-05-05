@@ -1,10 +1,4 @@
-/*
- Alex Drogo
- 02-05-2019
- CIS 1068 - 005
- Assignment 3: Ascii Art Project
- 
- Description: This program uses for loops to create a piece of ASCII art. The art that i created was the Empire State Building in NYC.
+/*Description: This program uses for loops to create a piece of ASCII art. The art that i created was the Empire State Building in NYC.
  This seems to work for all sizes that I have tried.*/
 
 package asciiArt;
